@@ -22,9 +22,9 @@ header img {
 }
 
 .bank-title {
-  display: block;           /* ← Makes it block-level for centering */
-  text-align: center;       /* ← Centers the text */
-  margin: 20px auto;        /* ← Centers the element */
+  display: block;           
+  text-align: center;       
+  margin: 20px auto;        
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -113,3 +113,4 @@ td.overdrawn {
 .currency {
   color: #fff;
 }
+
